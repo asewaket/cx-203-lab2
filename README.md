@@ -1,4 +1,4 @@
-# 4-Bit Adder and Adder/Subtractor Design in SystemVerilog
+# Combinational Circuit Design using Gate-Level Modeling and Synthesis on FPGA
 
 This lab contains SystemVerilog designs and testbenches for implementing a full adder, a 4-bit adder, and a 4-bit adder/subtractor for gate-level modeling and synthesis on FPGA. 
 
