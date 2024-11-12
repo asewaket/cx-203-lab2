@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov 12 13:49:15 2024
+# Process ID: 91214
+# Current directory: /home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab2/cx-203-lab2-t1/cx-203-lab2-t1.runs/synth_1
+# Command line: vivado -log and4gate_l2t1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and4gate_l2t1.tcl
+# Log file: /home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab2/cx-203-lab2-t1/cx-203-lab2-t1.runs/synth_1/and4gate_l2t1.vds
+# Journal file: /home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab2/cx-203-lab2-t1/cx-203-lab2-t1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source and4gate_l2t1.tcl -notrace

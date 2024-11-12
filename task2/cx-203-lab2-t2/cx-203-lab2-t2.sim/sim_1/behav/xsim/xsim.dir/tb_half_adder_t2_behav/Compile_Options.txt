@@ -1,0 +1,1 @@
+-wto "aa4d7fb81c2a422ca6ba4f06e7465f4b" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_half_adder_t2_behav" "xil_defaultlib.tb_half_adder_t2" "xil_defaultlib.glbl" -log "elaborate.log" 

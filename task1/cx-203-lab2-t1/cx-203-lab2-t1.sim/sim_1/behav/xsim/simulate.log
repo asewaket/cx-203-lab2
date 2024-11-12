@@ -1,0 +1,21 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time | a b c d | f
+-------------------
+                5000 | 0 0 0 0 | 0
+               10000 | 0 0 0 1 | 0
+               15000 | 0 0 1 0 | 0
+               20000 | 0 0 1 1 | 0
+               25000 | 0 1 0 0 | 0
+               30000 | 0 1 0 1 | 0
+               35000 | 0 1 1 0 | 0
+               40000 | 0 1 1 1 | 0
+               45000 | 1 0 0 0 | 0
+               50000 | 1 0 0 1 | 0
+               55000 | 1 0 1 0 | 0
+               60000 | 1 0 1 1 | 0
+               65000 | 1 1 0 0 | 0
+               70000 | 1 1 0 1 | 0
+               75000 | 1 1 1 0 | 0
+               80000 | 1 1 1 1 | 1
+$finish called at time : 80 ns : File "/home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab2/cx-203-lab2-t1/cx-203-lab2-t1.srcs/sim_1/new/tb_and4gate_l2t1.sv" Line 51

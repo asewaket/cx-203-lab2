@@ -1,0 +1,9 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time | A B | S Cout
+-------------------
+                5000 | 0 0 | 0 0
+               10000 | 0 1 | 1 0
+               15000 | 1 0 | 1 0
+               20000 | 1 1 | 0 1
+$finish called at time : 20 ns : File "/home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab1/half_adder_t2/half_adder_t2.srcs/sim_1/new/tb_half_adder_t2.sv" Line 49
