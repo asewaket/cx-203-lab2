@@ -1,0 +1,13 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time | A B Cin | S Cout
+-----------------------
+                5000 | 0 0 0  | 0 0
+               10000 | 0 0 1  | 1 0
+               15000 | 0 1 0  | 1 0
+               20000 | 0 1 1  | 0 1
+               25000 | 1 0 0  | 1 0
+               30000 | 1 0 1  | 0 1
+               35000 | 1 1 0  | 0 1
+               40000 | 1 1 1  | 1 1
+$finish called at time : 40 ns : File "/home/it/Chip_Design/CommonCore/DigitalDesign/Labs/Lab1/full_adder_t3/full_adder_t3.srcs/sim_1/new/tb_full_adder_t3.sv" Line 51
